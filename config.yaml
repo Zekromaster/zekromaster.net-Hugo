@@ -1,0 +1,90 @@
+baseurl: 'https://zekromaster.net'
+paginate: 5
+theme: back-to-the-90s
+title: Zekromaster.net
+
+markup:
+  highlight:
+    codeFences: true
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: perldoc
+    tabWidth: 4
+
+permalinks:
+  post: '/blog/:slug'
+
+params:
+  contentTypeName: blog
+  titleGif: /pictures/title.gif
+
+languages:
+
+  en:
+    baseURL: 'https://en.zekromaster.net'
+    languageName: English
+    contentDir: content/en
+    params:
+      contentTypeName: blog
+      subtitle: As long as it builds
+      infoBar:
+        - This site is best viewed in Firefox Quantum with JS enabled
+        - >-
+          Hugo Theme "Back to the 90s" licensed under the
+          <a href="https://github.com/Zekromaster/HugoTheme-BackToThe90s/blob/master/LICENSE">MIT License</a>
+        - >-
+          Content licensed under
+          <a href="https://github.com/Zekromaster/zekromaster.net-Hugo/blob/master/LICENSE">Creative Commons - Attribution</a>
+      blogIntro: Click on the image and check out my blog!
+
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+          weight: 1
+        - identifier: games
+          name: Games I Completed Max%
+          url: /games
+          weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
+
+  it:
+    baseURL: 'https://it.zekromaster.net'
+    languageName: Italiano
+    contentDir: content/it
+    params:
+      contentTypeName: blog
+      subtitle: Basta che compili
+      infoBar:
+        - >-
+          Si consiglia di visitare questo sito con Firefox Quantum e il
+          JavaScript abilitato
+        - >-
+          Il tema per Hugo "Back to the 90s" è sotto la
+          <a href="https://github.com/Zekromaster/HugoTheme-BackToThe90s/blob/master/LICENSE">Licenza MIT</a>
+        - >-
+          Il contenuto del sito è licenziato sotto
+          <a href="https://github.com/Zekromaster/zekromaster.net-Hugo/blob/master/LICENSE">Creative Commons - Attribution</a>
+      blogIntro: Clicka sull'immagine e vieni a scoprire il mio blog!
+
+    menu:
+      main:
+        - identifier: about
+          name: Su di me
+          url: /about
+          weight: 1
+        - identifier: games
+          name: Giochi che ho completato (Max%)
+          url: /games
+          weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3

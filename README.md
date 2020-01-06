@@ -1,0 +1,19 @@
+This is a simple static website made with Hugo.
+
+In the future, I will write a software for pulling part of the contents of the
+`data` directory from my own Solid POD at build time, and I shall set automatic
+rebuild whenever the data changes up. This will allow, for instance, to avoid
+hardcoding of "games.json". The data files that should be loaded from the pod in
+the future are already located in "data/pod", and a "build.sh" file already
+exists to house the build script in the future.
+
+I also have an "asciidoctor" script already in place. For now I don't need it,
+but it allows me to manage Hugo's asciidoctor's arguments, for instance to use
+additional modules.
+
+= Licensing
+
+Please note that while the site's theme is licensed under the MIT License, the
+contents of the site itself (anything on this repository) are licensed under
+CC-BY-SA. The scripts are actually too trivial for a license to mean anything for
+them, but are licensed under CC-BY-SA too.

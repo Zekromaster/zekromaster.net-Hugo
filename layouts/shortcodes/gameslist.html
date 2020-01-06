@@ -1,0 +1,3 @@
+{{ range $.Site.Data.pod.games.data }}
+  | {{ .name }} | {{ .console }} | {{ .completion }} | {{ .proof | absURL }}[HERE,window=_blank]
+{{ end }}

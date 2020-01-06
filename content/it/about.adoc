@@ -1,0 +1,11 @@
+---
+title: "Su di me"
+type: "nonpost"
+---
+
+Il mio nome è Luca Cristiano.
+
+Sono uno studente di Ingegneria Informatica presso l'Università degli Studi di
+Salerno.
+
+Come intuibile dall'esistenza di questo sito, ho un bel po' di tempo da perdere.

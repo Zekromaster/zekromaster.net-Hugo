@@ -1,0 +1,7 @@
+data = [
+  {name = "Crash Bandicoot 1", console = "PSX", completion = "100%", proof = "/pictures/games/proof/cb1.png", cover = "/pictures/games/cover/cb1.png"},
+  {name = "Crash Bandicoot 3", console = "PSX", completion = "105%", proof = "/pictures/games/proof/cb3.png", cover = "/pictures/games/cover/cb3.png"},
+  {name = "Crash Team Racing", console = "PSX", completion = "101%", proof = "/pictures/games/proof/ctr.png", cover = "/pictures/games/cover/ctr.png"},
+  {name = "Crash Twinsanity", console = "PS2", completion = "100%", proof = "/pictures/games/proof/ctw.png", cover = "/pictures/games/cover/ctw.png"},
+  {name = "Jak and Daxter: The Precursor Legacy", console = "PS2", completion = "100%", proof = "/pictures/games/proof/jnd.png", cover = "/pictures/games/cover/jnd.png"}
+]

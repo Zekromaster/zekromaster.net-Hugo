@@ -1,0 +1,14 @@
+---
+title: "Giochi che ho completato (Max%)"
+type: "nonpost"
+description: "Una (ben poco) sana dose di completismo."
+---
+
+Questa è una lista dei giochi in cui ho raggiunto il massimo livello di
+completamento. Per ora è una semplice tabella, ma pianifico di renderlo più
+"dinamico".
+
+|==========================
+| Nome | Console | Completamento | Prova
+{{%gameslist%}}
+|==========================

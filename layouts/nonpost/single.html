@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="post">
+  <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+
+  {{ if .Params.tags }}
+  <span class="post-tags">
+    {{ range .Params.tags }}
+    #<a href="{{ (urlize (printf "tags/%s/" .)) | absLangURL }}">{{ . }}</a>&nbsp;
+    {{ end }}
+  </span>
+  {{ end }}
+
+  {{ with .Params.Cover }}
+  <img src="{{ . | absURL }}" class="post-cover" />
+  {{ end }}
+
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

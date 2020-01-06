@@ -1,0 +1,10 @@
+---
+title: "About"
+type: "nonpost"
+---
+
+My name is Luca Cristiano.
+
+I'm a student in Informatics Engineering at the University of Salerno, in Italy.
+
+As you may have noticed from this website, I have quite a lot of time to spare.

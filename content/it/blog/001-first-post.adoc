@@ -1,0 +1,13 @@
+---
+title: "Il mio \"primo\" post."
+date: 2019-12-30T13:50:00+01:00
+description: "Ben... venuti? tornati?"
+author: "Zekromaster"
+---
+Saranno le pesanti dosi di Tachipirina, Oki e Augmentin, sarà l'influenza, sarà
+che non ho niente ma proprio niente da fare, ho deciso di rendere questo sito
+un blog. E come avrete notato, un blog anche molto brutto.
+
+Non aspettatevi un post di introduzione particolarmente lungo o interessante, a
+esser sinceri. Faccio un po' di fatica a respirare e sono abbastanza noto perchè
+non porto mai a termine nie

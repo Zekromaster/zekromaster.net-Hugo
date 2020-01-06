@@ -1,0 +1,13 @@
+---
+title: "Games I Completed Max%"
+type: "nonpost"
+description: "An (un)healthy dose of completionism."
+---
+
+This is just a list of the games I completed at maximum percentage. For now
+it's a table, but I'm planning to make it a bit more "dynamic".
+
+|==========================
+| Name | Console | Completion | Proof
+{{%gameslist%}}
+|==========================

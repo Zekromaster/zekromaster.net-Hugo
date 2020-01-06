@@ -1,0 +1,14 @@
+---
+title: "My \"first\" post."
+date: 2019-12-30T13:50:00+01:00
+description: "Welcome (back?) to Zekromaster.net!"
+author: "Zekromaster"
+---
+Maybe it is the heavy doses of Paracetamol, Ketoprofen and Amoxicillin I'm
+taking, maybe it is the influenza virus, maybe it is sheer, absolute boredom.
+
+Whatever it is, I decided to turn my website into a blog. A very ugly one.
+
+To be honest, don't expect this first post to be particularly long or
+interesting. I'm having some problems with breathing and I'm known for never
+finishing anyt

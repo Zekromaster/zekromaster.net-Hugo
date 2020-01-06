@@ -1,0 +1,3 @@
+[submodule "themes/back-to-the-90s"]
+	path = themes/back-to-the-90s
+	url = git@github.com:zekromaster/HugoTheme-BackToThe90s.git
