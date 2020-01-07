@@ -15,5 +15,5 @@ additional modules.
 
 Please note that while the site's theme is licensed under the MIT License, the
 contents of the site itself (anything on this repository) are licensed under
-CC-BY-SA. The scripts are actually too trivial for a license to mean anything for
-them, but are licensed under CC-BY-SA too.
+CC-BY. The scripts are actually too trivial for a license to mean anything for
+them, but are licensed under CC-BY too.
